@@ -60,34 +60,34 @@ Spring Boot와 Node.js를 활용해 서비스를 개발했으며,
 ## 1.3. Main Tech STACK
 
 ### 🔧 Language
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 
 ### 🌱 Framework & Library
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
 
 ### ☁️ DevOps & Infra
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/SSH-00BFA6?style=flat&logo=openssh&logoColor=white"/>
-<img src="https://img.shields.io/badge/PM2-2B037A?style=flat&logo=pm2&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/SSH-00BFA6?style=flat&logo=openssh&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/PM2-2B037A?style=flat&logo=pm2&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
 
 ### 🛠 Tools
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat&logo=intellijidea&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
 
 ### 🗄️ Database
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
 
 <br>
@@ -136,3 +136,4 @@ Spring Boot와 Node.js를 활용해 서비스를 개발했으며,
 역할 분배 : 
 기간 : 
 #### 2.1.2 
+
