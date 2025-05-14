@@ -11,7 +11,7 @@
 
 <details>
 <summary> 동기와 후배에게 받은 심폐소생상 </summary>
-<img src="감사장.jpg" width="200px">
+<img src="감사장.jpg" width="400px">
 </details>
 
 ## 🧩 개발 동아리 REVERSE, 3년간의 성장 이야기
