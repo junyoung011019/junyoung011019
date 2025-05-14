@@ -10,7 +10,7 @@
 - **후배에게 운영 이양**, 현재까지도 **지속적인 성장 중**
 
 <details>
-<summary> 동기와 후배에게 받은 심폐소생상 </summary>
+<summary> 👉 동기와 후배에게 받은 심폐소생상 </summary>
 <img src="감사장.jpg" width="400px">
 </details>
 
