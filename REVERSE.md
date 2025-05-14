@@ -1,4 +1,4 @@
-## REVERSE [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nsu_reverse/)
+# REVERSE [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nsu_reverse/)
 
 대학 생활에서 가장 힘을 쏟은건 학업과 프로젝트 다음으로 동아리 활동을 뽑을 수 있습니다.
 
