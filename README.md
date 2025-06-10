@@ -8,17 +8,21 @@
 - 클라우드 인프라(AWS, GCP) 구축 및 운영  
 - 학과 코딩 동아리(REVERSE) 대표 (2023~2024)  
 - 단순 기능 구현을 넘어, 효율적이고 능률적인 시스템 구조 설계
+- [스프링 독학 공부중](https://github.com/junyoung011019/spring-study-beginner)
 
 </div>
 
 
 ## ⭐ 주요 문서 바로가기
 
-- 📂 **[프로젝트 상세 보기](./PROJECT.md)**  
+- 📂 **[프로젝트 상세 보기](./PROJECT.md)**
   → 백엔드 / 클라우드 기반 프로젝트 소개
+
+- ✏️ **[스프링 독학 시작! 25.6.10](https://github.com/junyoung011019/spring-study-beginner)** 
 
 - 🏫 **[동아리 운영 이야기 보기](./REVERSE.md)**  
   → 운영 · 멘토링 · 성과 중심의 3년간 활동 기록
+
 
 ## Profile
 이름 : 정 준영 (Jung Junyoung)
