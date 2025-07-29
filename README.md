@@ -38,7 +38,7 @@
 
 | 자격 사항                              | 취득 일자     | 기관                         |
 |---------------------------------------|--------------|------------------------------|
-| (AWS Solution Architect - Associate)[https://velog.io/@junyoung011019/AWS-Solutions-Architect-Associate-SAA-C03-%ED%9B%84%EA%B8%B0]    | 2025.07.28   | Amazon Web Service           |
+| [AWS Solution Architect - Associate](https://velog.io/@junyoung011019/AWS-Solutions-Architect-Associate-SAA-C03-%ED%9B%84%EA%B8%B0)    | 2025.07.28   | Amazon Web Service           |
 | 정보처리기사                           | 2025.06.13   | 한국산업인력공단              |
 | 네트워크 관리사 2급                    | 2025.04.08   | 한국정보통신자격협회          |
 | KSTQB (SW 테스터)                     | 2023.09.06   | 한국소프트웨어테스팅자격위원회 |
