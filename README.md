@@ -28,6 +28,7 @@
 
 - 👶 **[스프링 독학 시작! 25.06.10 ~ 25.06.15](https://github.com/junyoung011019/spring-study-beginner)**
 
+- 🏆 **[2025 제 2회 전국 SW 경진대회 최우수상/총장상 수상](https://velog.io/@junyoung011019/swforum)**
 
 ## Profile
 이름 : 정 준영 (Jung Junyoung)
@@ -47,6 +48,7 @@
 | [AWS Solution Architect - Associate](https://velog.io/@junyoung011019/AWS-Solutions-Architect-Associate-SAA-C03-%ED%9B%84%EA%B8%B0)    | 2025.07.28   | Amazon Web Service           |
 | 정보처리기사                           | 2025.06.13   | 한국산업인력공단              |
 | 네트워크 관리사 2급                    | 2025.04.08   | 한국정보통신자격협회          |
+| SQLD                    | 2025.09.19(사전 점수 합격)   | 한국데이터산업진흥원원          |
 | KSTQB (SW 테스터)                     | 2023.09.06   | 한국소프트웨어테스팅자격위원회 |
     
     
