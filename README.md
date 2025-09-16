@@ -12,9 +12,6 @@
 
 - 단순 기능 구현을 넘어, 효율적이고 능률적인 시스템 구조 설계
 
-- 🏠 **[프로젝트 회고 및 성장 기록](https://velog.io/@junyoung011019/posts)**
-
-
 </div>
 
 
@@ -24,11 +21,9 @@
   
   → 백엔드 / 클라우드 기반 프로젝트 소개
 
-- 👦 **[스프링 기초 공부중 25.06.15 ~ ](https://github.com/junyoung011019/spring-study-basics)**
-
-- 👶 **[스프링 독학 시작! 25.06.10 ~ 25.06.15](https://github.com/junyoung011019/spring-study-beginner)**
-
 - 🏆 **[2025 제 2회 전국 SW 경진대회 최우수상/총장상 수상](https://velog.io/@junyoung011019/swforum)**
+
+- 🏠 **[프로젝트 회고 및 성장 기록](https://velog.io/@junyoung011019/posts)**
 
 ## Profile
 이름 : 정 준영 (Jung Junyoung)
@@ -45,7 +40,7 @@
 
 | 자격 사항                              | 취득 일자     | 기관                         |
 |---------------------------------------|--------------|------------------------------|
-| [AWS Solution Architect - Associate](https://velog.io/@junyoung011019/AWS-Solutions-Architect-Associate-SAA-C03-%ED%9B%84%EA%B8%B0)    | 2025.07.28   | Amazon Web Service           |
+| [AWS Solution Architect - Associate](https://velog.io/@junyoung011019/AWS-Solutions-Architect-Associate-SAA)    | 2025.07.28   | Amazon Web Service           |
 | 정보처리기사                           | 2025.06.13   | 한국산업인력공단              |
 | 네트워크 관리사 2급                    | 2025.04.08   | 한국정보통신자격협회          |
 | SQLD                    | 2025.09.19(사전 점수 합격)   | 한국데이터산업진흥원          |
@@ -67,19 +62,19 @@
 
 저는 <strong>[ 클라우드 운영 경험을 갖춘 백엔드 ]</strong> 개발자입니다.
 
-다양한 교내외 프로젝트를 통해 팀 협업, DB 연동, API 설계 등 백엔드 전반을 직접 경험했습니다.
-
-**Spring Boot와 Node.js를 활용해** 서비스를 개발했으며,  
-실사용자 피드백을 기반으로 요구사항을 반영하고,  
-애자일 방식으로 반복 개선하는 개발 사이클을 경험했습니다.
-
-또한 온프레미스 서버의 한계를 체감하며  
+온프레미스 서버의 한계를 체감하며  
 **클라우드 인프라(AWS, GCP)**에 관심을 갖게 되었고,  
 대부분의 프로젝트에서 클라우드 서버 구축과 운영을 주도했습니다.
 
 또 여기서 그치지 않고, <br>
 **AWS의 Associate 등급인 Solution Architect**도 취득하며, <br>
 클라우드에 관한 학습을 심화하고 있습니다.
+
+**Spring Boot와 Node.js를 활용해** 서비스를 개발했으며,  
+실사용자 피드백을 기반으로 요구사항을 반영하고,  
+애자일 방식으로 반복 개선하는 개발 사이클을 경험했습니다.
+
+또한 다양한 교내외 프로젝트를 통해 팀 협업, DB 연동, API 설계 등 백엔드 전반을 직접 경험했습니다.
 
 이러한 경험을 바탕으로  
 <strong>클라우드 운영 역량을 갖춘 백엔드 개발자</strong>로 성장하고자 합니다.
