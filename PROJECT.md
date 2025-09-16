@@ -10,7 +10,7 @@
 
 | No | 프로젝트명 | 설명 | 담당 핵심 기술 |
 |:--:|:-----------|:------|:-------------------------------|
-| 1 | 🏡 <strong>[스마트홈 AIoT 제어 시스템 (졸업작품)](https://github.com/junyoung011019/aiot_smart_home_spring)</strong> | IoT 기반, 1인 가구 에너지 절감 시스템 | **Spring, AWS, MySQL, MongoDB, Redis, PCM, OAuth** |
+| 1 | 🏡 <strong>[IoT 기반, 1인 가구 에너지 절감 시스템](https://github.com/junyoung011019/aiot_smart_home_spring)</strong> | 제2회 전국 소프트웨어 성과 공유 포럼 최우수상/총장상 | **Spring, AWS, MySQL, MongoDB, Redis, PCM, OAuth** |
 | 2 | 🚕 <strong>[대학생 택시 동승자 매칭 서비스](https://github.com/junyoung011019/yata-taxi-matching)</strong> | 출발지·도착지 기반 택시 동승자 매칭과 Socket.IO 기반 실시간 채팅 구현 | **Node.js, GCP, Socket.IO, JWT**, MongoDB |
 | 3 | 👴🏻 <strong>[시니어를 위한 STT 키워드 추출](https://github.com/junyoung011019/senior-keyword-helper)</strong> | 시니어 음성을 STT로 분석하고, 핵심 키워드를 검색어로 자동 변환 | **Node.js, GCP, KoNLPy**, Open API 3.5 |
 | 4 | 🔌 <strong>[아두이노 기반 IoT 프로젝트](https://github.com/junyoung011019/arduino-iot-demo)</strong> | Node.js 기반 아두이노 센서 연동 및 기기 제어, 전력 데이터 시각화 | **Node.js, GCP, Arduino**, MySQL |
