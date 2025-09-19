@@ -43,7 +43,7 @@
 | [AWS Solution Architect - Associate](https://velog.io/@junyoung011019/AWS-Solutions-Architect-Associate-SAA)    | 2025.07.28   | Amazon Web Service           |
 | 정보처리기사                           | 2025.06.13   | 한국산업인력공단              |
 | 네트워크 관리사 2급                    | 2025.04.08   | 한국정보통신자격협회          |
-| SQLD                    | 2025.09.19(사전 점수 합격)   | 한국데이터산업진흥원          |
+| SQLD                    | 2025.09.19   | 한국데이터산업진흥원          |
 | 리눅스 마스터 2급                    | 2025.10.03(가답안 점수 합격)   | 한국정보통신진흥협회          |
 | KSTQB (SW 테스터)                     | 2023.09.06   | 한국소프트웨어테스팅자격위원회 |
     
