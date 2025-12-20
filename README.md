@@ -123,8 +123,8 @@ Well-Architected Framework 기반의 설계 원칙을 실무에 적용하고 있
 
 | 년도 | 활동명 | 수상 내용 | 활동 요약 | 주최/주관 |
 |------|--------|-----------|------------|------------|
-| 2025 | [**Data Venture 문제 해결 챌린지**](https://velog.io/@junyoung011019/2025-Data-Venture-1) | 부산광역시장상 / 대상 | [Serverless 숏폼 외국어 회화 플랫폼](https://github.com/junyoung011019/squirrel) | [AWS, 서울대학교 빅데이터 혁신융합대학](https://snuc.snu.ac.kr/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/document/298/) |
-| 2025 | [**전국대학 소프트웨어 성과 공유포럼**](https://velog.io/@junyoung011019/swforum) | 최우수상 / 동아대학교 총장상 | [IoT 기반, 1인 가구 에너지 절감 시스템](https://github.com/junyoung011019/aiot_smart_home_spring) | 과학기술정보통신부, 부산광역시 |
+| 2025 | [**Data Venture 문제 해결 챌린지**](https://velog.io/@junyoung011019/2025-Data-Venture-1) | **부산광역시장상 / 대상** | [Serverless 숏폼 외국어 회화 플랫폼](https://github.com/junyoung011019/aws-serverless-shortform-platform) | [AWS, 서울대학교 빅데이터 혁신융합대학](https://snuc.snu.ac.kr/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/document/298/) |
+| 2025 | [**전국대학 소프트웨어 성과 공유포럼**](https://velog.io/@junyoung011019/swforum) | **최우수상 / 동아대학교 총장상** | [IoT 기반, 1인 가구 에너지 절감 시스템](https://github.com/junyoung011019/aiot_smart_home_spring) | [과학기술정보통신부, 부산광역시](https://linkareer.com/activity/247912) |
 | 2023 | **SW 경진대회** | 대상 | [C++ & DB 연동 미니게임천국](https://github.com/junyoung011019/cpp-minigame-score) | 컴퓨터소프트웨어학과 |
 | 2024 | **이력서·자기소개서 경진대회** | 대상 | 개발자 직무 고민부터 서류·면접 준비까지 | 고용노동부, 대학일자리플러스센터 |
 | 2022 | **대학생 안보 토론대회** | 8강 입상 | 양자 암호화를 이용한 단독망 구축 | 서울교육대학교, 육군사관학교 |
