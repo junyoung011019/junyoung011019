@@ -1,4 +1,4 @@
-## <div align="center">👋 On-Premise부터 Cloud Native까지, 최적의 아키텍처를 설계하고 구축하는 엔지니어 정준영입니다.</div>
+## <div align="center">👋 최적의 아키텍처를 설계하고 클라우드 엔지니어 정준영입니다.</div>
 
 다양한 <strong>클라우드 및 백엔드 프로젝트 경험 </strong>을 통해 개발자로서의 실력을 쌓아가고 있습니다.
 
@@ -123,7 +123,7 @@ Well-Architected Framework 기반의 설계 원칙을 실무에 적용하고 있
 
 | 년도 | 활동명 | 수상 내용 | 활동 요약 | 주최/주관 |
 |------|--------|-----------|------------|------------|
-| 2025 | [**Data Venture 문제 해결 챌린지**](https://velog.io/@junyoung011019/2025-Data-Venture-1) | 부산광역시장상 / 대상 |  | [AWS, 서울대학교 빅데이터 혁신융합대학](https://snuc.snu.ac.kr/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/document/298/) |
+| 2025 | [**Data Venture 문제 해결 챌린지**](https://velog.io/@junyoung011019/2025-Data-Venture-1) | 부산광역시장상 / 대상 | [Serverless 숏폼 외국어 회화 플랫폼](https://github.com/junyoung011019/squirrel) | [AWS, 서울대학교 빅데이터 혁신융합대학](https://snuc.snu.ac.kr/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/document/298/) |
 | 2025 | [**전국대학 소프트웨어 성과 공유포럼**](https://velog.io/@junyoung011019/swforum) | 최우수상 / 동아대학교 총장상 | [IoT 기반, 1인 가구 에너지 절감 시스템](https://github.com/junyoung011019/aiot_smart_home_spring) | 과학기술정보통신부, 부산광역시 |
 | 2023 | **SW 경진대회** | 대상 | [C++ & DB 연동 미니게임천국](https://github.com/junyoung011019/cpp-minigame-score) | 컴퓨터소프트웨어학과 |
 | 2024 | **이력서·자기소개서 경진대회** | 대상 | 개발자 직무 고민부터 서류·면접 준비까지 | 고용노동부, 대학일자리플러스센터 |
