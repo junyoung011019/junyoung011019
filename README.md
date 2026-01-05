@@ -1,8 +1,11 @@
-## <div align="center">👋 최적의 아키텍처를 설계하고 클라우드 엔지니어 정준영입니다.</div>
+## <div align="center">👋 안녕하세요! <br> [비즈니스 가치를 만드는 클라우드 아키텍트], 정준영입니다.</div>
 
 다양한 <strong>클라우드 및 백엔드 프로젝트 경험 </strong>을 통해 개발자로서의 실력을 쌓아가고 있습니다.
 
 <div>
+
+단순히 인프라를 구축하는 것을 넘어, **비용 효율성(Cost Optimization)**과 **운영 안정성(Reliability)**을 최우선으로 고려하는 엔지니어입니다.
+**백엔드(Spring Boot) 개발 경험**을 바탕으로 애플리케이션에서 코드 레벨까지 깊이 있게 파악합니다.
 
 - Cloud Architecture: AWS/GCP 기반의 고가용성(HA) 아키텍처 설계 및 구축
 
@@ -21,13 +24,13 @@
 
 - 📂 **[프로젝트 상세 보기](./PROJECT.md)**
   
-  → 백엔드 / 클라우드 기반 프로젝트 소개
+  → 클라우드 / 백엔드 기반 프로젝트 소개
 
 - 👑 **[2025 Data Venture 문제 해결 챌린지 대상/부산광역시장상 수상](https://velog.io/@junyoung011019/2025-Data-Venture-1)**
 
 - 🏆 **[2025 제 2회 전국 SW 경진대회 최우수상/총장상 수상](https://velog.io/@junyoung011019/swforum)**
 
-- 🏠 **[프로젝트 회고 및 성장 기록](https://velog.io/@junyoung011019/posts)**
+- 🏠 **[성장 기록 블로그](https://velog.io/@junyoung011019)**
 
 ## Profile
 이름 : 정 준영 (Jung Junyoung)
@@ -73,7 +76,7 @@ Well-Architected Framework 기반의 설계 원칙을 실무에 적용하고 있
 <strong>먼저 클라우드 엔지니어로서 현장 운영과 구축 실무 역량을 탄탄히 쌓고, <br>
 향후 고객의 비즈니스 성공을 이끄는 Solutions Architect(SA)로 성장하고자 합니다.</strong>
 
-## Junyoung's Skill Set
+## 🚀 Junyoung's Skill Set
 
 <table><tr>
 <td valign="top" width="50%">
