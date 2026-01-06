@@ -9,7 +9,7 @@
 
 <div>
 
-단순히 인프라를 구축하는 것을 넘어, **비용 효율성(Cost Optimization)**과 **운영 안정성(Reliability)** 을 최우선으로 고려하는 엔지니어입니다.
+단순히 인프라를 구축하는 것을 넘어, **비용 효율성(Cost Optimization)** 과 **운영 안정성(Reliability)** 을 최우선으로 고려하는 엔지니어입니다.
 **백엔드(Spring Boot) 개발 경험**을 바탕으로 애플리케이션에서 코드 레벨까지 깊이 있게 파악합니다.
 
 - Cloud Architecture: AWS/GCP 기반의 고가용성(HA) 아키텍처 설계 및 구축
