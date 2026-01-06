@@ -1,7 +1,7 @@
-## 👋 안녕하세요! <br> 최적의 Trade-off를 설계하는 <br> 클라우드 엔지니어 정준영입니다.
+## <div align="center">👋 최적의 트레이드오프(Trade-off)를 설계하는 클라우드 엔지니어 정준영입니다.</div>
 
 
-**"모든 선택에는 대가(Cost)가 따릅니다. <br> 비즈니스 상황에 맞춰 잃는 것보다 얻는 것이 큰 아키텍처를 지향합니다."**
+**"모든 선택에는 대가(Cost)가 따릅니다. 비즈니스 상황에 맞춰 잃는 것보다 얻는 것이 큰 아키텍처를 지향합니다."**
 
 [![Velog](https://img.shields.io/badge/Velog-Tech%20Blog-11B576?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@junyoung011019)
 
