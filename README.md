@@ -1,4 +1,4 @@
-## <div align="center">👋 안녕하세요! <br> 최적의 Trade-off를 설계하는 <br> 클라우드 엔지니어 정준영입니다.</div>
+##👋 안녕하세요! <br> 최적의 Trade-off를 설계하는 <br> 클라우드 엔지니어 정준영입니다.
 
 <div align="center">
 
